@@ -4,14 +4,14 @@ hide_title: true
 sections:
 - type: section_hero
   template: section_hero
-  title: I'mMattia
+  title: I'm_Mattia
   section_id: hero
   content: This section can contain a subtitle or tagline. The recommended length
     is one to three sentences, but can be changed as you prefer.
   actions: []
 - type: section_content
   template: section_content
-  title: Aboutme
+  title: About_me
   section_id: about
   content: This is the "about" excerpt. It can be used to provide a paragraph about
     yourself that people can read on the homepage to get a sense of who you are. There
@@ -20,7 +20,7 @@ sections:
   actions:
   - type: action
     template: action
-    label: Contact Me
+    label: Contact_Me
     url: "/contact"
     style: button
     icon_class: ''
@@ -30,13 +30,13 @@ sections:
   image_alt: ''
 - type: section_posts
   template: section_posts
-  title: RecentPosts
+  title: Recent_Posts
   section_id: recent-posts
   posts_number: 4
   actions:
   - type: action
     template: action
-    label: View Blog
+    label: View_Blog
     url: blog/index.html
     style: button
     icon_class: ''
