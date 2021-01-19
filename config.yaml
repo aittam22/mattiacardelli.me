@@ -17,7 +17,7 @@ params:
     nav_links:
     - type: action
       template: action
-      label: Home
+      label: 00 Home
       url: "/"
       style: link
       icon_class: ''
