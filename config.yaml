@@ -33,8 +33,8 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: Style Guide
-      url: "/style-guide/"
+      label: 02 Books
+      url: "/books/"
       style: link
       icon_class: ''
       new_window: false
