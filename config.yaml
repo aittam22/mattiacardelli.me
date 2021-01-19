@@ -25,7 +25,7 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: Blog
+      label: 01 Blog
       url: "/blog/"
       style: link
       icon_class: ''
