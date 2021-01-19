@@ -10,7 +10,7 @@ params:
     title: MattiaCardelli
     tagline: Don't Panic
     profile_img: /v1611065284/mattiacardelli.me/laurea-economia-lasapienza.jpg
-    profile_img_alt: Author avatar
+    profile_img_alt: ''
     background: dark
     has_nav: true
     nav_links:
