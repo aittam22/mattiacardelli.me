@@ -49,7 +49,7 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: Contact
+      label: 04 Contact
       url: "/contact/"
       style: link
       icon_class: ''
