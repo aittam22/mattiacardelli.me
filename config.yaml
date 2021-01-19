@@ -41,8 +41,8 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: About
-      url: "/about/"
+      label: 03 Aboutme
+      url: "/aboutme/"
       style: link
       icon_class: ''
       new_window: false
