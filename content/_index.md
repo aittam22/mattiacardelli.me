@@ -11,7 +11,7 @@ sections:
   actions: []
 - type: section_content
   template: section_content
-  title: About
+  title: Aboutme
   section_id: about
   content: This is the "about" excerpt. It can be used to provide a paragraph about
     yourself that people can read on the homepage to get a sense of who you are. There
@@ -30,7 +30,7 @@ sections:
   image_alt: ''
 - type: section_posts
   template: section_posts
-  title: Recent Posts
+  title: RecentPosts
   section_id: recent-posts
   posts_number: 4
   actions:
