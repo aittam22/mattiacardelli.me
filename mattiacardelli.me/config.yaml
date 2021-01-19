@@ -1,0 +1,90 @@
+title: Mattia_Cardelli
+baseURL: /
+params:
+  description: I'm_Mattia
+  layout_style: overflow
+  palette: blue
+  header:
+    type: header
+    template: header
+    title: Mattia_Cardelli
+    tagline: Don't_Panic
+    profile_img: https://res.cloudinary.com/aittam22/image/upload/v1611065284/mattiacardelli.me/laurea-economia-lasapienza.jpg
+    profile_img_alt: Mattia
+    background: dark
+    has_nav: true
+    nav_links:
+      - type: action
+        template: action
+        label: 00_Home
+        url: /
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: 01_Blog
+        url: /blog/
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: 02_Books
+        url: /books/
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: 03_Aboutme
+        url: /aboutme/
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: 04_Contact
+        url: /contact/
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+    has_social: true
+    social_links:
+      - type: action
+        template: action
+        label: Twitter
+        url: 'https://twitter.com/mattia_cardelli'
+        style: icon
+        icon_class: fa-twitter
+        new_window: true
+        no_follow: false
+      - type: action
+        template: action
+        label: LinkedIn
+        url: 'https://www.linkedin.com/in/mattia-cardelli'
+        style: icon
+        icon_class: fa-linkedin
+        new_window: true
+        no_follow: false
+  footer:
+    type: footer
+    template: footer
+    content: M_Cardelli. All_rights_reserved.
+    links: []
+  favicon: ''
+taxonomies:
+  stub: stub
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
