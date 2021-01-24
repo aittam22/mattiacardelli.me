@@ -75,7 +75,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: M. Cardelli. All rights reserved.
+    content: M. Cardelli. All_rights_reserved.
     links: []
   favicon: ''
 taxonomies:
