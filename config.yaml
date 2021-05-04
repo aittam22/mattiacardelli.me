@@ -4,11 +4,6 @@ params:
   description: I'm_Mattia
   layout_style: overflow
   palette: blue
-  footer:
-    type: footer
-    template: footer
-    content: M. Cardelli. All_rights_reserved.
-    links: []
   favicon: ''
 taxonomies:
   stub: stub
