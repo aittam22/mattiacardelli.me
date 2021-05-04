@@ -1,6 +1,5 @@
 ---
 title: Tanti auguri Minnaaaaa
-subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 layout: page
